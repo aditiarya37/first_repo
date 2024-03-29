@@ -1,3 +1,3 @@
 # html_project
-This is my first github repository.
+This is my first github repository. <br>
 Author: Aditi Arya
